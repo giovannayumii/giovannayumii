@@ -2,17 +2,6 @@
 ### Eu sou a Giovanna Yumi✨<br>
 ### Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi ou contribui para, alguns experimentos e estudos pessoais.
 
-💻Tecnologias:<br>
-° HTML;<br>
-° CSS;<br>
-° PHP;<br>
-° Javascript;<br>
-° React;<br>
-° Python;<br>
-° C#;<br>
-° MySQL;<br>
-° MongoDB.
-
 <div>
 	<a href = "https://beacons.ai/giovannayumii">
 	<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=giovannayumii&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
