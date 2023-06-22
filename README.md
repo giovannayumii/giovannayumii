@@ -1,4 +1,4 @@
-### Hello word! 👋
+### Hello world! 👋
 ### Eu sou a Giovanna Yumi✨<br>
 ### Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi ou contribui para, alguns experimentos e estudos pessoais.
 <!--
