@@ -3,8 +3,8 @@
 ### Bem-vindo(a) ao meu perfil no GitHub! Aqui você encontrará projetos que desenvolvi ou contribui para, alguns experimentos e estudos pessoais.
 
 <div>
-	<a href = "https://beacons.ai/giovannayumii">
-	<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=giovannayumii&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+<!-- 	<a href = "https://beacons.ai/giovannayumii">
+	<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=giovannayumii&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/> -->
 	<img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giovannayumii&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
